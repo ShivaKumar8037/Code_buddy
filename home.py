@@ -31,7 +31,8 @@ def show():
     st.markdown("---")
     st.subheader("About the Creator")
     st.markdown("""
-    Code Buddy was conceptualized and developed by [Shiva Kumar](https://github.com/ShivaKumar8037), aimed at providing an intuitive and efficient coding experience. With a passion for enhancing developer tools and workflows, [Your Name] has integrated cutting-edge AI technologies to bring Code Buddy to life. Check out the project on [GitHub](https://github.com/yourgithubusername/code-buddy) for more details, contributions, and updates.
+    Code Buddy was conceptualized and developed by [Shiva Kumar](https://github.com/ShivaKumar8037), aimed at providing an intuitive and efficient coding experience.
+                 Check out the project on [GitHub](https://github.com/ShivaKumar8037/Code_buddy) for more details, contributions, and updates.
     """)
 
     # Instructions or additional information (if needed)
