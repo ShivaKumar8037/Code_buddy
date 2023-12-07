@@ -87,6 +87,7 @@ def show(api_key=None):
             st.write("Visual Explanation: ")
             st.write(mermaidCode(explaination, api_key))
             mermaid(mermaidCode(explaination, api_key))
+            st.warning("Palm API may have some trouble generating the visual explanation. Please try again later. This functionality works best with OPEN API mermaid generated code.")
     else:
         st.warning("Please enter your API key in the sidebar to access this feature.")
         
