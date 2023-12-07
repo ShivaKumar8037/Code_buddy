@@ -1,7 +1,7 @@
 import streamlit as st
 
 def show():
-    st.header('Welcome to Code Buddy 🚀')
+    st.header('Welcome to Code Buddy 🚀🧑🏻‍💻')
 
     st.write('Code Buddy is a tool designed to assist you in writing better code. '
              'It offers a variety of features to enhance your coding experience. '
@@ -27,7 +27,8 @@ def show():
 
     Remember, keep your API key secure and do not share it publicly.
     """)
-
+    st.info("Enter your API key in the sidebar to access all features.")
+    st.write("We don't store your API key. It is only used to access the Palm API.")
     st.markdown("---")
     st.subheader("About the Creator")
     st.markdown("""
@@ -36,4 +37,4 @@ def show():
     """)
 
     # Instructions or additional information (if needed)
-    st.info("Enter your API key in the sidebar to access all features.")
+  
