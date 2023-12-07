@@ -3,7 +3,8 @@
 Welcome to Code Buddy, a Streamlit-powered web application that transforms the way developers interact with code. Integrating the powerful capabilities of Google's Palm API, Code Buddy stands as a versatile assistant for coding professionals and enthusiasts alike.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codebuddy.streamlit.app/)
 
-![Click here to Watch how to use the website](https://www.youtube.com/watch?v=2F-nJXFjh-E)
+[![Click here to watch how to use the website](https://img.youtube.com/vi/2F-nJXFjh-E/0.jpg)](https://www.youtube.com/watch?v=2F-nJXFjh-E)
+
 
 ## 🌟 Key Features
 
